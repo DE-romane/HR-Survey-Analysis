@@ -20,6 +20,11 @@ The city conducted a survey of approximately 1,500 public works employees to ass
 4. For the *Department* and *Question* fields:
    - Calculate the count or frequency of each unique value.
    - Standardize any inconsistencies in these fields.
+
+![image info](Data%20Profiling%20%26%20Quality%20Assurance.png)
+
+![image info](Data%20Profiling%20%26%20Quality%20Assurance-2.png)
+
 ---
 **Objective 2: Data Preparation for Visualization**
 
@@ -37,5 +42,11 @@ The city conducted a survey of approximately 1,500 public works employees to ass
 3. Add data labels; remove the x-axis, title, and vertical gridlines; format chart elements for readability.
 4. Generate insights and recommendations for HR leadership based on the visualization.
 5. *Bonus:* Adjust the chart to align positive responses to the right and negative to the left using calculated columns.
+
+![image info](chart%20data.png)
+
+![image info](chart%20.png)
+
+
 ---
 
